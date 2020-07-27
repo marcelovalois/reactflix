@@ -1,0 +1,133 @@
+{
+  "categorias": [
+    {
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que há de melhor no mundo dos games, cinema e tecnologia.",
+          "url": "https://www.youtube.com/watch?v=IqiTJK_uzUY"
+        },
+        {
+          "titulo": "80 ideias",
+          "url": "https://www.youtube.com/watch?v=H4CCPaYLTWg"
+        },
+        {
+          "titulo": "Portfólio Rocketseat",
+          "url": "https://www.youtube.com/watch?v=EhnXaybirdA"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Martin Scorsese",
+          "url": "https://www.youtube.com/watch?v=IUzjtEhuTpQ"
+        },
+        {
+          "titulo": "Damien Chazelle",
+          "url": "https://www.youtube.com/watch?v=ANr1l06d3k0"
+        },
+        {
+          "titulo": "12 Homens e Uma Sentença",
+          "url": "https://www.youtube.com/watch?v=UBsqCjgcmeY"
+        },
+        {
+          "titulo": "Quentin Tarantino",
+          "url": "https://www.youtube.com/watch?v=irLfFYc6mac"
+        },
+        {
+          "titulo": "Greta Gerwig",
+          "url": "https://www.youtube.com/watch?v=itvwlzAVENc"
+        },
+        {
+          "titulo": "Começo de O Poderoso Chefão",
+          "url": "https://www.youtube.com/watch?v=kuOemt7DFOA"
+        },
+        {
+          "titulo": "Wes Anderson",
+          "url": "https://www.youtube.com/watch?v=IvFxK3kz9Aw"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "videos": [      
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Sekiro Shadows Die Twice",
+          "url": "https://www.youtube.com/watch?v=XA74YQB7X-0"
+        },
+        {
+          "titulo": "Ori and The Will of the Wisps",
+          "url": "https://www.youtube.com/watch?v=vwPdQe90D34"
+        },
+        {
+          "titulo": "Detroit Become Human",
+          "url": "https://www.youtube.com/watch?v=LyBYdYnaX0c"
+        },
+        {
+          "titulo": "South Park The Stick of Truth  ",
+          "url": "https://www.youtube.com/watch?v=bQ7C1-zVH08"
+        },
+        {
+          "titulo": "Super Mario Odyssey",
+          "url": "https://www.youtube.com/watch?v=8k0_O0heOwA"
+        }
+      ]
+    }
+  ]
+}
