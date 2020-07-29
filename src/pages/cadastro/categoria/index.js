@@ -24,8 +24,6 @@ function CadastroCategoria() {
 
   const handleChange = (e) => setValue(e.target.getAttribute('name'), e.target.value)
 
-  console.log(categorias)
-
   return (
     <PageDefault>
       <h1>Cadastro de Categoria: {values.nome}</h1>
@@ -47,18 +45,15 @@ function CadastroCategoria() {
           value={values.nome}
           onChange={handleChange}
         />
-
-        <div>
-          <label>
-            Descrição:
-            <textarea
-              type="text"
-              value={values.descricao}
-              name="descricao"
-              onChange={handleChange}
-              />
-          </label>
-        </div>
+        
+        <FormField
+          kind="textarea"
+          label="Descrição"
+          type="text"
+          name="descricao"
+          value={values.descricao}
+          onChange={handleChange}
+        />
 
         <FormField
           label="Cor"
